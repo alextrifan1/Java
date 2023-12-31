@@ -19,6 +19,7 @@ public class Console {
         System.out.println("3. Afiseaza instrumentele sub un anume pret");
         System.out.println("x. EXIT");
     }
+
     public void runMenu() {
         while (true){
             printMenu();
